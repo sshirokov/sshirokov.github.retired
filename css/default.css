@@ -1,0 +1,29 @@
+body {
+    margin-top: 1.0em;
+    background-color: #e48b05;
+    font-family: "Helvetica,Arial,FreeSans";
+    color: #ffffff;
+}
+
+#container {
+    margin: 0 auto;
+    width: 700px;
+}
+h1 { 
+    font-size: 3.8em; 
+    color: #1b74fa; 
+    margin-bottom: 3px; 
+}
+
+#head { padding-top: 25px; }
+#head h2, #head h1  { display: inline; }
+
+h1 .small { font-size: 0.4em; }
+h1 a { text-decoration: none }
+h2 { font-size: 1.5em; color: #1b74fa; }
+h3 { text-align: center; color: #1b74fa; }
+
+a { color: #1b74fa; }
+
+.description { font-size: 1.2em; margin-bottom: 30px; margin-top: 30px; font-style: italic;}
+.footer { text-align:center; padding-top:30px; font-style: italic; }
