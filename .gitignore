@@ -1,3 +1,4 @@
 #Ignore things
 *~
 .DS_Store
+_site
